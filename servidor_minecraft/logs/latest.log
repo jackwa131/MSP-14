@@ -46,3 +46,14 @@
 [07Apr2025 02:19:58.809] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [07Apr2025 02:20:22.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] adw
 [07Apr2025 02:25:11.116] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b76c488[id=<null>,name=jackox_vUv,properties={},legacy=false] (/127.13.225.104:33913) lost connection: Disconnected
+[07Apr2025 02:30:04.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Apr2025 02:30:04.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Apr2025 02:30:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Apr2025 02:30:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Apr2025 02:30:05.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Apr2025 02:30:06.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Apr2025 02:30:06.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Apr2025 02:30:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Apr2025 02:30:06.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Apr2025 02:30:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Apr2025 02:30:06.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
